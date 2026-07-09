@@ -1,16 +1,15 @@
-## Hi there 👋
+Daniel — developer
 
-<!--
-**lgdtodaoxiao8/lgdtodaoxiao8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build across the stack and across formats: mobile apps (Flutter), web, backend
+(Python / Django), a bit of game dev, and lower-level C++ when a problem calls for it.
 
-Here are some ideas to get you started:
+What I actually enjoy is understanding how things work under the surface — how a client
+talks to a server, why a connection drops, what happens between the screen and the network —
+not just wiring up screens.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm going deeper into mobile development and networking.
+
+Working with: Flutter · Dart · Python · Django · C++ · Unity · Git · Docker
+
+The pinned repos below are a slice of the range: Flutter apps, an algorithmic C++ tool,
+a Unity game, and a small deployed web project.
